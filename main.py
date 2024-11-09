@@ -24,7 +24,7 @@ def send_to_webhook(message):
     
     requests.post(WEBHOOK_URL, data=json.dumps(payload), headers=headers)
 
-for i in range(300):
+for i in range(307):
     r = requests.get(f'https://dissoku.net/ja/servers?page={i}', headers=h).text
     al = BeautifulSoup(r, 'html.parser').find_all('a', class_="join-btn")
     
