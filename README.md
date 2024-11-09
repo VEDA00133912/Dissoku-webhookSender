@@ -1,0 +1,2 @@
+# Dissoku-webhookSender
+ディス速から招待リンクを取得してwebhookで送信する
