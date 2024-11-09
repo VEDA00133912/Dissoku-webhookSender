@@ -1,5 +1,5 @@
 # Dissoku-webhookSender
-<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
+<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic"><br>
 ディス速から招待リンクを取得してwebhookで送信する<br>
 # 使い方
 - まずこれ
